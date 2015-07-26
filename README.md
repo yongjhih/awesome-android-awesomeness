@@ -61,6 +61,9 @@ Organizations:
 
 * http://androidweekly.net
 * http://www.androidhive.info/
+* http://android-developers.blogspot.tw/
+* https://corner.squareup.com/
+* http://instagram-engineering.tumblr.com/
 
 ## Trending
 
