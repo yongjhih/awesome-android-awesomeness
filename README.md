@@ -2,10 +2,10 @@
 
 ## awesomeness
 
-* [https://github.com/wasabeef/awesome-android-ui  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=32)](https://github.com/wasabeef/awesome-android-ui)
-* [https://github.com/wasabeef/awesome-android-libraries  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=32)](https://github.com/wasabeef/awesome-android-libraries)
-* [https://github.com/snowdream/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=32)](https://github.com/snowdream/awesome-android)
-* [https://github.com/JStumpp/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=32)](https://github.com/JStumpp/awesome-android)
+* [https://github.com/wasabeef/awesome-android-ui  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/wasabeef/awesome-android-ui)
+* [https://github.com/wasabeef/awesome-android-libraries  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/wasabeef/awesome-android-libraries)
+* [https://github.com/snowdream/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/snowdream/awesome-android)
+* [https://github.com/JStumpp/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/JStumpp/awesome-android)
 
 ## News
 
