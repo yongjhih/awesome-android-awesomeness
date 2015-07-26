@@ -10,6 +10,7 @@
 * https://github.com/akullpp/awesome-java
 * https://android-libraries.zeef.com/jurgen.stumpp
 * https://github.com/bboyfeiyu/android-tech-frontier (Chinese)
+* https://github.com/lightSky/Awesome-MaterialDesign
 
 ## awesome developers
 
@@ -69,11 +70,12 @@ Organizations:
 
 * https://github.com/trending?l=java
 
-## Development
+## Libraries
 
 * https://android-arsenal.com
 * https://android-libs.com
 * https://androidlibs.org
+* http://alamkanak.github.io/android-libraries-and-resources/
 
 ## UX/UI
 
