@@ -8,6 +8,7 @@
 * [https://github.com/JStumpp/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/JStumpp/awesome-android)
 * https://github.com/ashishb/android-security-awesome
 * https://github.com/akullpp/awesome-java
+* https://android-libraries.zeef.com/jurgen.stumpp
 
 ## awesome developers
 
