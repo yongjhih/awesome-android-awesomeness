@@ -20,6 +20,7 @@
 * [![](https://avatars.githubusercontent.com/u/73924?v=3&s=24) Koushik Dutta](https://github.com/koush)
 * [![](https://avatars.githubusercontent.com/u/100155?v=3&s=24) Roman Nurik](https://github.com/romannurik)
 * [![](https://avatars.githubusercontent.com/u/131416?v=3&s=24) Nathan Marz](https://github.com/nathanmarz)
+* [![](https://avatars2.githubusercontent.com/u/92794?v=3&s=24) Cyril Mottier](https://github.com/cyrilmottier)
 * [![](https://avatars.githubusercontent.com/u/175697?v=3&s=24) Jeff Gilfelt](https://github.com/jgilfelt)
 * [![](https://avatars.githubusercontent.com/u/1269143?v=3&s=24) Jeremy Feinstein](https://github.com/jfeinstein10)
 * [![](https://avatars.githubusercontent.com/u/1223348?v=3&s=24) Sergey Tarasevich](https://github.com/nostra13)
