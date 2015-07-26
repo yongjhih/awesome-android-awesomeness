@@ -23,6 +23,7 @@
 * [![](https://avatars.githubusercontent.com/u/131416?v=3&s=24) Nathan Marz](https://github.com/nathanmarz)
 * [![](https://avatars2.githubusercontent.com/u/92794?v=3&s=24) Cyril Mottier](https://github.com/cyrilmottier)
 * [![](https://avatars.githubusercontent.com/u/175697?v=3&s=24) Jeff Gilfelt](https://github.com/jgilfelt)
+* [Simon Vig Therkildsen](https://github.com/SimonVT)
 * [![](https://avatars.githubusercontent.com/u/1269143?v=3&s=24) Jeremy Feinstein](https://github.com/jfeinstein10)
 * [![](https://avatars.githubusercontent.com/u/1223348?v=3&s=24) Sergey Tarasevich](https://github.com/nostra13)
 * [![](https://avatars.githubusercontent.com/u/2700015?v=3&s=24) manuelpeinado](https://github.com/manuelpeinado)
