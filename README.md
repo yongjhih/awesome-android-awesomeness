@@ -151,16 +151,14 @@ Organizations:
 * Google Analytics
 * Flurry
 * Crashlytics
+* http://www.tune.com/
+* Mixpanel
+* etc.
 
 ## Frameworks
 
 * Fabric8
 * Xamarin C#
-
-## Ads
-
-* http://www.tune.com/
-* Mixpanel
 
 ## Package searching
 
