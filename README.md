@@ -11,11 +11,18 @@
 
 * http://androidweekly.net
 
+## Trending
+
+* https://github.com/trending?l=java
+
 ## Development
 
 * https://android-arsenal.com
 * https://android-libs.com
 * https://androidlibs.org
+
+
+* http://developer.android.com/develop
 
 ## UX/UI
 
