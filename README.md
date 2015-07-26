@@ -24,12 +24,21 @@
 * https://www.materialup.com/
 * http://developer.android.com/design/
 
+## Documentation
+
+* https://github.com/codepath/android_guides/wiki
+
+## Tools
+
+* http://romannurik.github.io/AndroidAssetStudio/ (forks: http://jgilfelt.github.io/AndroidAssetStudio)
+* http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
+* http://angrytools.com/android/button
+* http://inloop.github.io/shadow4android/
+
 ## Forum/Community
 
-Chinese:
-
-* https://www.facebook.com/groups/270034869726161/
-* https://www.facebook.com/groups/AKDGroup/
+* https://www.facebook.com/groups/270034869726161/ (Chinese)
+* https://www.facebook.com/groups/AKDGroup/ (Chinese)
 
 ## Books
 
