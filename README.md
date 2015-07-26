@@ -32,6 +32,7 @@
 * emilsjolander
 * nhaarman
 * florent37
+* Dan Lew
 
 awesome designers:
 
@@ -152,6 +153,7 @@ Organizations:
 ## Awards
 
 * http://github-awards.com/users?language=Java&type=world
+* https://github.com/trending/developers?l=java
 
 ## Bonus
 
