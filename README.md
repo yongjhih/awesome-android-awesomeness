@@ -34,6 +34,7 @@
 * florent37
 * Dan Lew
 * Fernando Cejas
+* donnfelker
 
 awesome designers:
 
