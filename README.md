@@ -31,6 +31,11 @@
 * nhaarman
 * florent37
 
+awesome designers:
+
+* taylorling
+* Chiu-Ki Chan
+
 Organizations:
 
 * [![](https://avatars2.githubusercontent.com/u/82592?v=3&s=24) square](https://github.com/square)
@@ -72,6 +77,7 @@ Organizations:
 * http://androidniceties.tumblr.com/
 * https://www.materialup.com/
 * http://developer.android.com/design/
+* http://androiduiux.com/free-design-resources/
 
 ## Documentation
 
