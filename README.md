@@ -26,6 +26,11 @@
 
 ## Forum/Community
 
+Chinese:
+
+* https://www.facebook.com/groups/270034869726161/
+* https://www.facebook.com/groups/AKDGroup/
+
 ## Books
 
 ## Bonus
