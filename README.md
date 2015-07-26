@@ -59,6 +59,7 @@ Organizations:
 ## News
 
 * http://androidweekly.net
+* http://www.androidhive.info/
 
 ## Trending
 
@@ -82,6 +83,7 @@ Organizations:
 ## Documentation
 
 * https://github.com/codepath/android_guides/wiki
+* http://www.vogella.com/tutorials/android.html
 
 ## Tools
 
