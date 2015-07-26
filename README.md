@@ -104,6 +104,24 @@ Organizations:
 * http://javadoc.io/
 * https://jitpack.io/
 
+## Backend Services
+
+* Parse
+* Firebase
+
+## Analytics Services
+
+* Google Analytics
+* Flurry
+* Crashlytics
+
+## Frameworks
+
+* Fabric8
+* Xamarin C#
+
+## Ads
+
 ## Package searching
 
 * http://gradleplease.appspot.com/
