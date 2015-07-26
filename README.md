@@ -37,8 +37,8 @@
 
 ## Forum/Community
 
-* https://www.facebook.com/groups/270034869726161/ (Chinese)
-* https://www.facebook.com/groups/AKDGroup/ (Chinese)
+* [https://www.facebook.com/groups/270034869726161/ ![](https://avatars0.githubusercontent.com/u/69631?v=3&s=16)](https://www.facebook.com/groups/270034869726161/) (Chinese)
+* [https://www.facebook.com/groups/AKDGroup/ ![](https://avatars0.githubusercontent.com/u/69631?v=3&s=16)](https://www.facebook.com/groups/AKDGroup/) (Chinese)
 
 ## Books
 
