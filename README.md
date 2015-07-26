@@ -9,6 +9,7 @@
 * https://github.com/ashishb/android-security-awesome
 * https://github.com/akullpp/awesome-java
 * https://android-libraries.zeef.com/jurgen.stumpp
+* https://github.com/bboyfeiyu/android-tech-frontier (Chinese)
 
 ## awesome developers
 
