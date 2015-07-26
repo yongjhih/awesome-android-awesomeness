@@ -31,6 +31,7 @@
 * [![](https://avatars.githubusercontent.com/u/1476232?v=3&s=24) Mike Penz](https://github.com/mikepenz)
 * [![](https://avatars.githubusercontent.com/u/2836354?v=3&s=24) Dmytro Danylyk](https://github.com/dmytrodanylyk)
 * [![](https://avatars.githubusercontent.com/u/3015152?v=3&s=24) Niek Haarman](https://github.com/nhaarman)
+* [![](https://avatars3.githubusercontent.com/u/215725?v=3&s=24) Dave Smith](https://github.com/devunwired)
 * [![](https://avatars.githubusercontent.com/u/582346?v=3&s=24) Ilkka Seppälä](https://github.com/iluwatar)
 * [![](https://avatars.githubusercontent.com/u/5754972?v=3&s=24) Florent CHAMPIGNY](https://github.com/florent37)
 * Dan Lew
@@ -40,7 +41,7 @@
 awesome designers:
 
 * taylorling
-* Chiu-Ki Chan
+* [![](https://avatars1.githubusercontent.com/u/354458?v=3&s=24) Chiu-Ki Chan](https://github.com/chiuki)
 
 Organizations:
 
