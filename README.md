@@ -65,6 +65,7 @@ Organizations:
 * http://android-developers.blogspot.tw/
 * https://corner.squareup.com/
 * http://instagram-engineering.tumblr.com/
+* http://www.andevcon.com/news
 
 ## Trending
 
