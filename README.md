@@ -69,6 +69,14 @@ Organizations:
 * http://instagram-engineering.tumblr.com/
 * http://www.andevcon.com/news
 
+## Voice News
+
+* http://fragmentedpodcast.com/
+
+## Video News
+
+* https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
+
 ## Trending
 
 * https://github.com/trending?l=java
