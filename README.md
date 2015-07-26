@@ -33,6 +33,7 @@
 * nhaarman
 * florent37
 * Dan Lew
+* Fernando Cejas
 
 awesome designers:
 
