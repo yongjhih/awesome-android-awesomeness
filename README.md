@@ -9,6 +9,39 @@
 * https://github.com/ashishb/android-security-awesome
 * https://github.com/akullpp/awesome-java
 
+## awesome developers
+
+* Jake Wharton
+* chrisbanes
+* nathanmarz
+* nostra13
+* jfeinstein10
+* koush
+* iluwatar
+* jgilfelt
+* gabrielemariotti
+* dmytrodanylyk
+* manuelpeinado
+* mikepenz
+* romannurik
+* lucasr
+
+Organizations:
+
+* Square
+* google
+* facebook
+* netflix
+* reactivex
+* yalantis
+* commonsguy
+* twitter
+* linkedin
+* jetbrains
+* github
+
+See also: http://github-awards.com/users?language=Java&type=world
+
 ## News
 
 * http://androidweekly.net
