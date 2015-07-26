@@ -13,6 +13,7 @@
 
 * Jake Wharton
 * chrisbanes
+* daimajia
 * nathanmarz
 * nostra13
 * jfeinstein10
@@ -25,6 +26,9 @@
 * mikepenz
 * romannurik
 * lucasr
+* emilsjolander
+* nhaarman
+* florent37
 
 Organizations:
 
@@ -39,8 +43,12 @@ Organizations:
 * linkedin
 * jetbrains
 * github
-
-See also: http://github-awards.com/users?language=Java&type=world
+* etsy
+* airbnb
+* umano
+* 47deg
+* novoda
+* fasterxml
 
 ## News
 
@@ -100,6 +108,10 @@ See also: http://github-awards.com/users?language=Java&type=world
 
 * http://gradleplease.appspot.com/
 * http://search.maven.org/
+
+## Awards
+
+* http://github-awards.com/users?language=Java&type=world
 
 ## Bonus
 
