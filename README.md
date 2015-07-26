@@ -6,32 +6,32 @@
 * [https://github.com/wasabeef/awesome-android-libraries  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/wasabeef/awesome-android-libraries)
 * [https://github.com/snowdream/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/snowdream/awesome-android)
 * [https://github.com/JStumpp/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/JStumpp/awesome-android)
-* https://github.com/ashishb/android-security-awesome
-* https://github.com/akullpp/awesome-java
+* [https://github.com/ashishb/android-security-awesome  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/ashishb/android-security-awesome)
+* [https://github.com/akullpp/awesome-java  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/akullpp/awesome-java)
 * https://android-libraries.zeef.com/jurgen.stumpp
-* https://github.com/bboyfeiyu/android-tech-frontier (Chinese)
-* https://github.com/lightSky/Awesome-MaterialDesign
+* [https://github.com/bboyfeiyu/android-tech-frontier  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/bboyfeiyu/android-tech-frontier) (Chinese)
+* [https://github.com/lightSky/Awesome-MaterialDesign  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/lightSky/Awesome-MaterialDesign)
 
 ## awesome developers
 
 * [![](https://avatars0.githubusercontent.com/u/66577?v=3&s=24) Jake Wharton](https://github.com/jakewharton)
 * [![](https://avatars1.githubusercontent.com/u/227486?v=3&s=24) Chris Banes](https://github.com/chrisbanes)
-* daimajia
-* nathanmarz
-* nostra13
-* jfeinstein10
-* koush
-* iluwatar
-* jgilfelt
-* gabrielemariotti
-* dmytrodanylyk
-* manuelpeinado
-* mikepenz
-* romannurik
-* lucasr
-* emilsjolander
-* nhaarman
-* florent37
+* [![](https://avatars.githubusercontent.com/u/2503423?v=3&s=24) 代码家](https://github.com/daimajia)
+* [![](https://avatars.githubusercontent.com/u/2836354?v=3&s=24) Dmytro Danylyk](https://github.com/dmytrodanylyk)
+* [![](https://avatars.githubusercontent.com/u/1525924?v=3&s=24) Emil Sjölander](https://github.com/emilsjolander)
+* [![](https://avatars.githubusercontent.com/u/5754972?v=3&s=24) Florent CHAMPIGNY](https://github.com/florent37)
+* [![](https://avatars.githubusercontent.com/u/2583078?v=3&s=24) Gabriele Mariotti](https://github.com/gabrielemariotti)
+* [![](https://avatars.githubusercontent.com/u/582346?v=3&s=24) Ilkka Seppälä](https://github.com/iluwatar)
+* [![](https://avatars.githubusercontent.com/u/1269143?v=3&s=24) Jeremy Feinstein](https://github.com/jfeinstein10)
+* [![](https://avatars.githubusercontent.com/u/175697?v=3&s=24) Jeff Gilfelt](https://github.com/jgilfelt)
+* [![](https://avatars.githubusercontent.com/u/73924?v=3&s=24) Koushik Dutta](https://github.com/koush)
+* [![](https://avatars.githubusercontent.com/u/730395?v=3&s=24) Lucas Rocha](https://github.com/lucasr)
+* [![](https://avatars.githubusercontent.com/u/2700015?v=3&s=24) manuelpeinado](https://github.com/manuelpeinado)
+* [![](https://avatars.githubusercontent.com/u/1476232?v=3&s=24) Mike Penz](https://github.com/mikepenz)
+* [![](https://avatars.githubusercontent.com/u/131416?v=3&s=24) Nathan Marz](https://github.com/nathanmarz)
+* [![](https://avatars.githubusercontent.com/u/3015152?v=3&s=24) Niek Haarman](https://github.com/nhaarman)
+* [![](https://avatars.githubusercontent.com/u/1223348?v=3&s=24) Sergey Tarasevich](https://github.com/nostra13)
+* [![](https://avatars.githubusercontent.com/u/100155?v=3&s=24) Roman Nurik](https://github.com/romannurik)
 * Dan Lew
 * Fernando Cejas
 * donnfelker
