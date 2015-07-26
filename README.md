@@ -74,7 +74,6 @@ Organizations:
 * https://android-arsenal.com
 * https://android-libs.com
 * https://androidlibs.org
-* http://developer.android.com/develop
 
 ## UX/UI
 
@@ -88,6 +87,9 @@ Organizations:
 
 * https://github.com/codepath/android_guides/wiki
 * http://www.vogella.com/tutorials/android.html
+* http://javatechig.com/
+* https://github.com/gabrielemariotti/androiddev
+* http://developer.android.com/develop
 
 ## Tools
 
