@@ -28,15 +28,15 @@
 * [![](https://avatars.githubusercontent.com/u/2583078?v=3&s=24) Gabriele Mariotti](https://github.com/gabrielemariotti)
 * [![](https://avatars.githubusercontent.com/u/1525924?v=3&s=24) Emil Sjölander](https://github.com/emilsjolander)
 * [![](https://avatars.githubusercontent.com/u/730395?v=3&s=24) Lucas Rocha](https://github.com/lucasr)
+* [![](https://avatars3.githubusercontent.com/u/91827?v=3&s=24) Donn Felker](https://github.com/donnfelker)
 * [![](https://avatars.githubusercontent.com/u/1476232?v=3&s=24) Mike Penz](https://github.com/mikepenz)
+* [![](https://avatars0.githubusercontent.com/u/514850?v=3&s=24) Daniel Lew](https://github.com/dlew)
 * [![](https://avatars.githubusercontent.com/u/2836354?v=3&s=24) Dmytro Danylyk](https://github.com/dmytrodanylyk)
 * [![](https://avatars.githubusercontent.com/u/3015152?v=3&s=24) Niek Haarman](https://github.com/nhaarman)
 * [![](https://avatars3.githubusercontent.com/u/215725?v=3&s=24) Dave Smith](https://github.com/devunwired)
+* [![](https://avatars1.githubusercontent.com/u/1360604?v=3&s=24) Fernando Cejash](ttps://github.com/android10)
 * [![](https://avatars.githubusercontent.com/u/582346?v=3&s=24) Ilkka Seppälä](https://github.com/iluwatar)
 * [![](https://avatars.githubusercontent.com/u/5754972?v=3&s=24) Florent CHAMPIGNY](https://github.com/florent37)
-* Dan Lew
-* Fernando Cejas
-* donnfelker
 
 awesome designers:
 
