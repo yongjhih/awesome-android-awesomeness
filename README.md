@@ -80,6 +80,13 @@ Organizations:
 * https://androidlibs.org
 * http://alamkanak.github.io/android-libraries-and-resources/
 
+## Libraries DEMO
+
+* https://play.google.com/store/apps/details?id=com.desarrollodroide.repos
+* https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
+* https://play.google.com/store/apps/details?id=com.libraries.developers
+* https://play.google.com/store/apps/details?id=com.rise.livdev
+
 ## UX/UI
 
 * https://dribbble.com/
@@ -155,6 +162,10 @@ Organizations:
 
 * http://github-awards.com/users?language=Java&type=world
 * https://github.com/trending/developers?l=java
+
+## App demo Services
+
+* https://appetize.io/
 
 ## Bonus
 
