@@ -109,6 +109,7 @@ Organizations:
 
 * Parse
 * Firebase
+* pixate
 
 ## Analytics Services
 
@@ -122,6 +123,9 @@ Organizations:
 * Xamarin C#
 
 ## Ads
+
+* http://www.tune.com/
+* Mixpanel
 
 ## Package searching
 
