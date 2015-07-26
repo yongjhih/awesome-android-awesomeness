@@ -11,8 +11,8 @@
 
 ## awesome developers
 
-* [Jake Wharton](https://github.com/jakewharton)
-* [Chris Banes](https://github.com/chrisbanes)
+* [![](https://avatars0.githubusercontent.com/u/66577?v=3&s=24) Jake Wharton](https://github.com/jakewharton)
+* [![](https://avatars1.githubusercontent.com/u/227486?v=3&s=24) Chris Banes](https://github.com/chrisbanes)
 * daimajia
 * nathanmarz
 * nostra13
@@ -32,7 +32,7 @@
 
 Organizations:
 
-* [Square](https://github.com/square)
+* [![](https://avatars2.githubusercontent.com/u/82592?v=3&s=24) square](https://github.com/square)
 * google
 * facebook
 * netflix
