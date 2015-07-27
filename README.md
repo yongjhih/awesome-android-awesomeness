@@ -208,6 +208,7 @@ Organizations:
 
 * http://github-awards.com/users?language=Java&type=world
 * https://github.com/trending/developers?l=java
+* https://gitgossip.com/top
 
 ## App demo Services
 
