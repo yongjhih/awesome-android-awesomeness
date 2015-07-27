@@ -8,7 +8,7 @@
     * [News](#news)
     * [Voice News](#voice-news)
     * [Video News](#video-news)
-    * [Trending](#trending)
+    * [Project Trending](#project-trending)
     * [Libraries](#libraries)
     * [Libraries DEMO](#libraries-demo)
     * [UX/UI](#uxui)
@@ -117,7 +117,7 @@ Organizations:
 
 * https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
 
-## Trending
+## Project Trending
 
 * https://github.com/trending?l=java
 
