@@ -10,7 +10,7 @@
 * [https://github.com/akullpp/awesome-java  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/akullpp/awesome-java)
 * https://android-libraries.zeef.com/jurgen.stumpp
 * [https://github.com/bboyfeiyu/android-tech-frontier  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/bboyfeiyu/android-tech-frontier) (Chinese)
-* https://github.com/Trinea/android-open-project/tree/master/English%20Version , https://github.com/Trinea/android-open-project (Chinese)
+* https://github.com/Trinea/android-open-project/tree/master/English%20Version
 * [https://github.com/lightSky/Awesome-MaterialDesign  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/lightSky/Awesome-MaterialDesign)
 * https://github.com/android-cn/android-dev-com (Chinese)
 
