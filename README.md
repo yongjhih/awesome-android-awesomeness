@@ -34,11 +34,19 @@
 * [https://github.com/JStumpp/awesome-android  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/JStumpp/awesome-android)
 * [https://github.com/ashishb/android-security-awesome  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/ashishb/android-security-awesome)
 * [https://github.com/akullpp/awesome-java  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/akullpp/awesome-java)
+* https://github.com/kaiinui/android-awesome-libraries
 * https://android-libraries.zeef.com/jurgen.stumpp
-* [https://github.com/bboyfeiyu/android-tech-frontier  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/bboyfeiyu/android-tech-frontier) (Chinese)
+* https://github.com/liuguangqiang/TopAndroid
+* [https://github.com/bboyfeiyu/android-tech-frontier ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/bboyfeiyu/android-tech-frontier) (Chinese)
 * https://github.com/Trinea/android-open-project/tree/master/English%20Version
+* https://github.com/yeungeek/awesome-android-libraries (Chinese)
+* https://github.com/iamdaiyuan/android_top_1000
 * [https://github.com/lightSky/Awesome-MaterialDesign  ![](https://avatars3.githubusercontent.com/u/9919?v=3&s=16)](https://github.com/lightSky/Awesome-MaterialDesign)
 * https://github.com/android-cn/android-dev-com (Chinese)
+* https://github.com/naughtyspirit/awesome-android-apps
+* https://github.com/trieucse/awesome-android
+* https://github.com/naughtyspirit/awesome-android-dev-tools
+* https://github.com/treesouth/AndroidLibrary
 
 ## awesome developers
 
