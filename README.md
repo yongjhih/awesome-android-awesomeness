@@ -206,6 +206,7 @@ Organizations:
 
 * Fabric8
 * Xamarin C#
+* cordova
 
 ## Package searching
 
