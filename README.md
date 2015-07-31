@@ -223,6 +223,14 @@ Organizations:
 
 * https://appetize.io/
 
+## Slides
+
+* https://speakerdeck.com/search?utf8=%E2%9C%93&q=android
+
+## Conference
+
+* [Droidcon](http://droidcon.com/)
+
 ## Bonus
 
 * [OpenAndroid (Chinese)  ![OpenAndroid](https://avatars0.githubusercontent.com/u/7111340?v=3&s=16)](http://yongjhih.gitbooks.io/feed/content/)
