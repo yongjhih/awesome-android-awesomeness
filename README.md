@@ -67,6 +67,7 @@
 * [![](https://avatars.githubusercontent.com/u/2700015?v=3&s=24) manuelpeinado](https://github.com/manuelpeinado)
 * [![](https://avatars.githubusercontent.com/u/2583078?v=3&s=24) Gabriele Mariotti](https://github.com/gabrielemariotti)
 * [![](https://avatars.githubusercontent.com/u/1525924?v=3&s=24) Emil Sjölander](https://github.com/emilsjolander)
+* [![](https://avatars.githubusercontent.com/u/9906?v=3&s=24) Pascal Hartig](https://github.com/passy)
 * [Alessandro Crugnola](https://github.com/sephiroth74)
 * [Flavien Laurent](https://github.com/flavienlaurent)
 * [![](https://avatars.githubusercontent.com/u/730395?v=3&s=24) Lucas Rocha](https://github.com/lucasr)
