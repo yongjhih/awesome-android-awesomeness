@@ -151,6 +151,7 @@ Organizations:
 * https://www.materialup.com/
 * http://developer.android.com/design/
 * http://androiduiux.com/free-design-resources/
+* http://colorhunt.co/
 
 ## Documentation
 
