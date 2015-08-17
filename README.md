@@ -47,6 +47,7 @@
 * https://github.com/trieucse/awesome-android
 * https://github.com/naughtyspirit/awesome-android-dev-tools
 * https://github.com/treesouth/AndroidLibrary
+* https://github.com/hotchemi/awesome-android-testing
 
 ## awesome developers
 
