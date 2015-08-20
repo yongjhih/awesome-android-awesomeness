@@ -153,6 +153,8 @@ Organizations:
 * http://developer.android.com/design/
 * http://androiduiux.com/free-design-resources/
 * http://colorhunt.co/
+* http://sketchrepo.com/
+* https://www.androidexperiments.com/
 
 ## Documentation
 
