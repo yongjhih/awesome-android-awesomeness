@@ -236,6 +236,7 @@ Organizations:
 ## Conference
 
 * [Droidcon](http://droidcon.com/)
+* [Droidcon resources](https://github.com/AndroidStudyGroup/conferences/wiki/DroidconNYC2015)
 
 ## Bonus
 
