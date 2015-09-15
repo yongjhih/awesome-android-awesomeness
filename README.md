@@ -208,6 +208,8 @@ Organizations:
 * Mixpanel
 * etc.
 
+* http://crashlytics.com/blog/
+
 ## Frameworks
 
 * Fabric8
