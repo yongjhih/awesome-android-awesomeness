@@ -49,6 +49,7 @@
 * https://github.com/treesouth/AndroidLibrary
 * https://github.com/hotchemi/awesome-android-testing
 * https://github.com/tangqi92/Android-Tips
+* https://github.com/kesenhoo/android-training-course-in-chinese
 
 ## awesome developers
 
