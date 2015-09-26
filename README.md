@@ -54,6 +54,8 @@
 
 ## awesome developers
 
+* Android GDE: https://developers.google.com/experts/all/technology/android
+
 * [![](https://avatars0.githubusercontent.com/u/66577?v=3&s=24) Jake Wharton](https://github.com/jakewharton)
 * [![](https://avatars1.githubusercontent.com/u/227486?v=3&s=24) Chris Banes](https://github.com/chrisbanes)
 * [![](https://avatars.githubusercontent.com/u/2503423?v=3&s=24) 代码家](https://github.com/daimajia)
