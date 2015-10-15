@@ -51,6 +51,7 @@
 * https://github.com/tangqi92/Android-Tips
 * https://github.com/kesenhoo/android-training-course-in-chinese
 * https://github.com/Juude/awesome-android-performance
+* http://www.learn2crack.com/
 
 ## awesome developers
 
