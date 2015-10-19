@@ -143,6 +143,7 @@ Organizations:
 * https://android-libs.com
 * https://androidlibs.org
 * http://alamkanak.github.io/android-libraries-and-resources/
+* http://p.codekk.com/
 
 ## Libraries DEMO
 
@@ -171,6 +172,7 @@ Organizations:
 * http://javatechig.com/
 * https://github.com/gabrielemariotti/androiddev
 * http://developer.android.com/develop
+* http://a.codekk.com/
 
 ## Tools
 
