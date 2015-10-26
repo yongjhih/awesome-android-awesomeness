@@ -91,6 +91,7 @@
 * [jpardogo](https://github.com/jpardogo)
 * [![](https://avatars.githubusercontent.com/u/582346?v=3&s=24) Ilkka Seppälä](https://github.com/iluwatar)
 * [![](https://avatars.githubusercontent.com/u/5754972?v=3&s=24) Florent CHAMPIGNY](https://github.com/florent37)
+* [Luis G. Valle](https://github.com/lgvalle)
 
 awesome designers:
 
