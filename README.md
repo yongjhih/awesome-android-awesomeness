@@ -52,6 +52,7 @@
 * https://github.com/kesenhoo/android-training-course-in-chinese
 * https://github.com/Juude/awesome-android-performance
 * http://www.learn2crack.com/
+* https://github.com/codepath/android_guides/wiki/Must-Have-Libraries
 
 ## awesome developers
 
