@@ -130,6 +130,7 @@ Organizations:
 ## Voice News
 
 * http://fragmentedpodcast.com/
+* https://soundcloud.com/fragmentedcast
 
 ## Video News
 
@@ -208,6 +209,7 @@ Organizations:
 
 * Parse
 * Firebase
+* heroku
 * pixate
 
 ## Analytics Services
