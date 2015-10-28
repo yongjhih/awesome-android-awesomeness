@@ -131,6 +131,7 @@ Organizations:
 
 * http://fragmentedpodcast.com/
 * https://soundcloud.com/fragmentedcast
+* https://player.fm/episodes?q=fragmentedcast
 
 ## Video News
 
