@@ -53,6 +53,7 @@
 * https://github.com/Juude/awesome-android-performance
 * http://www.learn2crack.com/
 * https://github.com/codepath/android_guides/wiki/Must-Have-Libraries
+* https://github.com/xiaomeixw/Library-Everyday-Gitbook
 
 ## awesome developers
 
