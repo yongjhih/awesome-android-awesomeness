@@ -54,6 +54,7 @@
 * http://www.learn2crack.com/
 * https://github.com/codepath/android_guides/wiki/Must-Have-Libraries
 * https://github.com/xiaomeixw/Library-Everyday-Gitbook
+* https://github.com/cesards/AndroidElementals
 
 ## awesome developers
 
@@ -127,6 +128,7 @@ Organizations:
 * https://corner.squareup.com/
 * http://instagram-engineering.tumblr.com/
 * http://www.andevcon.com/news
+* http://www.androidweekly.cn/ (Chinese)
 
 ## Voice News
 
@@ -150,6 +152,8 @@ Organizations:
 * https://androidlibs.org
 * http://alamkanak.github.io/android-libraries-and-resources/
 * http://p.codekk.com/
+* http://www.appance.com/category/android/
+* https://code.google.com/hosting/search?q=label%3aAndroid
 
 ## Libraries DEMO
 
