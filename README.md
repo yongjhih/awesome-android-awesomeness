@@ -154,6 +154,7 @@ Organizations:
 * http://p.codekk.com/
 * http://www.appance.com/category/android/
 * https://code.google.com/hosting/search?q=label%3aAndroid
+* https://libraries.io/
 
 ## Libraries DEMO
 
