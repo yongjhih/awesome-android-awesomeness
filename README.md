@@ -254,6 +254,28 @@ Organizations:
 
 * https://appetize.io/
 
+## Blogs
+
+* http://android-developers.blogspot.com
+* https://code.facebook.com/posts/android/
+* https://corner.squareup.com/
+* https://www.novoda.com/blog
+* http://androiduiux.com
+* http://cyrilmottier.com
+* http://www.androiduipatterns.com
+* http://www.androidhive.info
+* http://dtmilano.blogspot.com
+* http://jakewharton.com/blog
+* http://chris.banes.me
+* https://medium.com/@romannurik
+* http://nostra13android.blogspot.com
+* http://koush.com
+* http://www.grokkingandroid.com
+
+* http://googledevelopers.blogspot.com
+
+* https://www.quora.com/What-are-must-read-Android-developer-blogs
+
 ## Slides
 
 * https://speakerdeck.com/search?utf8=%E2%9C%93&q=android
