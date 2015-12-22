@@ -271,6 +271,7 @@ Organizations:
 * http://nostra13android.blogspot.com
 * http://koush.com
 * http://www.grokkingandroid.com
+* https://medium.com/groupon-eng
 
 * http://googledevelopers.blogspot.com
 
