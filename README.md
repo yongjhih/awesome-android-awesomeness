@@ -195,6 +195,7 @@ Organizations:
 * http://pojo.sodhanalibrary.com/
 * http://timboudreau.com/blog/json/read
 * inloop.github.io/apk-method-count
+* https://proguard.herokuapp.com/
 
 ## Forum/Community
 
