@@ -204,6 +204,8 @@ Organizations:
 
 ## Books
 
+* https://github.com/dogriffiths/HeadFirstAndroid
+
 ## Package Services
 
 * https://bintray.com/
