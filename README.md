@@ -194,8 +194,9 @@ Organizations:
 * http://www.jsonschema2pojo.org/
 * http://pojo.sodhanalibrary.com/
 * http://timboudreau.com/blog/json/read
-* inloop.github.io/apk-method-count
+* http://inloop.github.io/apk-method-count
 * https://proguard.herokuapp.com/
+* http://screensiz.es/phone
 
 ## Forum/Community
 
