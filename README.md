@@ -197,6 +197,7 @@ Organizations:
 * http://inloop.github.io/apk-method-count
 * https://proguard.herokuapp.com/
 * http://screensiz.es/phone
+* http://www.methodscount.com
 
 ## Forum/Community
 
@@ -240,7 +241,10 @@ Organizations:
 
 * Fabric8
 * Xamarin C#
-* cordova
+* cordova (phonegap)
+
+* react-native
+* nativescript
 
 ## Package searching
 
