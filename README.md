@@ -257,6 +257,7 @@ Organizations:
 * https://github.com/trending/developers?l=java
 * https://gitgossip.com/top
 * http://githubranking.com/
+* http://app.trendingdevs.com/world
 
 ## App demo Services
 
