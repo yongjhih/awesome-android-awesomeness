@@ -175,6 +175,7 @@ Organizations:
 * https://www.androidexperiments.com/
 * http://uimovement.com/
 * http://www.100daysui.com/
+* http://www.appanimations.com/
 
 ## Documentation
 
