@@ -200,6 +200,7 @@ Organizations:
 * http://screensiz.es/phone
 * http://www.methodscount.com
 * http://inloop.github.io/sqlite-viewer/
+* http://inloop.github.io/svg2android
 
 ## Forum/Community
 
