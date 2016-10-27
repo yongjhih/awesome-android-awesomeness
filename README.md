@@ -176,6 +176,7 @@ Organizations:
 * http://uimovement.com/
 * http://www.100daysui.com/
 * http://www.appanimations.com/
+* https://material.uplabs.com
 
 ## Documentation
 
