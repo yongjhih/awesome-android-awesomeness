@@ -202,6 +202,7 @@ Organizations:
 * http://www.methodscount.com
 * http://inloop.github.io/sqlite-viewer/
 * http://inloop.github.io/svg2android
+* https://romannurik.github.io/AndroidIconAnimator/
 
 ## Forum/Community
 
