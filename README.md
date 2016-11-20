@@ -204,6 +204,11 @@ Organizations:
 * http://inloop.github.io/svg2android
 * https://romannurik.github.io/AndroidIconAnimator/
 
+## Stats
+
+* https://nimbledroid.com/
+* http://www.appbrain.com/stats/libraries
+
 ## Forum/Community
 
 * [https://www.facebook.com/groups/270034869726161/ ![](https://avatars0.githubusercontent.com/u/69631?v=3&s=16)](https://www.facebook.com/groups/270034869726161/) (Chinese)
