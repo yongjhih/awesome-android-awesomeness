@@ -236,6 +236,10 @@ Organizations:
 * heroku
 * pixate
 
+## Chat As a Service
+
+* https://www.applozic.com
+
 ## Analytics Services
 
 * Google Analytics
